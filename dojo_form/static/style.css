@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 1200px;
+    margin: auto;
+}
+form{
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 200px;
+    padding: 20px;
+}
+#results{
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 200px;
+    padding: 20px;
+}
+h2{
+    text-decoration: underline;
+}
+#back{
+    margin-top: 100px;
+    margin-left: 175px;
+    display: block;
+}
+#submit{
+    display: block;
+    margin-left: 330px;
+}
+td input{
+    margin-left: 20px;
+}
+td select{
+    margin-left: 20px;
+}
+td{
+    padding: 5px;
+}
